@@ -1,6 +1,3 @@
-# vales-seed
-Symbolic operating system for the VALES archive. Core lexicon, visual grammar, project nodes, and dimensional field structure.
-
 # VALES Seed
 
 **The Symbolic Operating System of the VALES Archive**  
